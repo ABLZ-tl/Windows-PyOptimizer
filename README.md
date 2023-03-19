@@ -15,7 +15,7 @@ This is a program that helps optimize Windows performance by cleaning up junk fi
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/exampleuser/Windows-Optimizing.git`
+1. Clone the repository: `git clone https://github.com/ABLZ-tl/Windows-PyOptimizer.git`
 2. Install the required dependencies by running `pip install -r requirements.txt` in the project directory.
 3. Run the program by executing `python optimizer.py` in the project directory.
 
